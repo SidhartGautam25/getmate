@@ -66,11 +66,11 @@ const Navbar = () => {
           <ul className="flex md:gap-5 gap-3 md:font-semibold text-gray-400 text-sm md:text-xl">
             {/* <Link href="/"> */}
               <li className="hover:text-black ease-in-out duration-300">
-                Shop
+                providers
               </li>
             {/* </Link> */}
             {/* <Link href="/category"> */}
-              <li className="hover:text-black ease-in-out duration-300">Category</li>
+              <li className="hover:text-black ease-in-out duration-300">Contact</li>
             {/* </Link> */}
             
             {/* <Link href="/"> */}
