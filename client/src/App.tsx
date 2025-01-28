@@ -1,3 +1,5 @@
+import Card from "./component/card/Card"
+import Profile from "./component/profile/TopLayout"
 
 
 
@@ -7,7 +9,8 @@ function App() {
 
   return (
     <>
-      home
+      {/* <Card/> */}
+      <Profile/>
       </>
   )
 }

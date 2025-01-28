@@ -45,7 +45,7 @@ const Footer = () => {
           
         </div>
         <div className="w-full h-[2px] bg-black"></div>
-        <div className="text-center md:text-xl text-[9px] flex gap-3"> &#169; copyright 2024 <span className="text-blue-600">created by isham gupta</span></div>
+        <div className="text-center md:text-xl text-[9px] flex gap-3"> &#169; copyright 2024 <span className="text-blue-600">created by getmate</span></div>
       </div>
 
     </div>
